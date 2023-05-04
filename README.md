@@ -3,7 +3,7 @@
 
 ![contributing-image](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
-related to  **Generative AI** and** Deep Learning** for  **Material_Discovery**.
+related to  **Generative AI** and **Deep Learning** for  **Material_Discovery**.
 
 
 
