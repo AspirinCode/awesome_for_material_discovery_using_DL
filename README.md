@@ -13,6 +13,15 @@ related to  **Generative AI** and **Deep Learning** for  **Material_Discovery**.
 
 
 
+### VAE-based
+
+
+
+* **Crystal Diffusion Variational Autoencoder for Periodic Material Generation** [2022]  
+  Xie, Tian, Xiang Fu, Octavian-Eugen Ganea, Regina Barzilay, and Tommi Jaakkola.  
+  [Paper](http://people.csail.mit.edu/tommi/papers/Xie_etal_ICLR2022.pdf) |  [code](https://github.com/txie-93/cdvae) 
+
+
 ### GAN-based
 
 * **Generative adversarial networks and diffusion models in material discovery** [2023]  
